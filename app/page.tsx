@@ -73,7 +73,10 @@ export default function ProductPage() {
           <h1 className="text-4xl sm:text-5xl font-extrabold bg-gradient-to-r from-indigo-500 via-blue-500 to-cyan-400 bg-clip-text text-transparent">
             Dara Phoneshop
           </h1>
-          <p className="mt-2 text-sm text-gray-500">
+          <p className="mt-2 text-lg font-medium text-gray-700">
+            Hello! Welcome to our store.
+          </p>
+          <p className="mt-1 text-sm text-gray-500">
             Explore the latest smartphones — minimal, clean, and premiumm.
           </p>
         </div>
